@@ -4,4 +4,4 @@
     Duration = 3
 })
 wait(.3)
-game.Players.LocalPlayer:Kick("MTriet Hub | Script Updating...")
+game.Players.LocalPlayer:Kick("MTriet Hub | discord.gg/mFzWdBUn45")
